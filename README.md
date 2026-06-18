@@ -1,5 +1,10 @@
 <h1 align="center">
-  Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="35"> I'm Dipangshu Das
+  Hi
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="35" height="35">
+  </picture>,
+  I'm Dipangshu Das
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Learning+DSA+and+System+Design;Building+Projects+with+AI;Future+Software+Engineer;Always+Learning+Something+New" />
