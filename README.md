@@ -27,15 +27,15 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipangshudas-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=444444"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipangshudas-dev&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=444444"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipangshudas-dev&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=444444&bg_color=00000000"/>
 </p>
 
 ---
 
-## ⚪ GitHub Streak
+## ⚪ Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dipangshudas-dev&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&border=444444"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipangshudas-dev&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
