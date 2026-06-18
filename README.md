@@ -1,4 +1,4 @@
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture><h1 align="center">𝙳𝚒𝚙𝚊𝚗𝚐𝚜𝚑𝚞 𝙳𝚊𝚜</h1>
+https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/lottie.json<h1 align="center">𝙳𝚒𝚙𝚊𝚗𝚐𝚜𝚑𝚞 𝙳𝚊𝚜</h1>
 
 <h3 align="center">CSE Student | Aspiring Software Engineer | AI & DSA Enthusiast</h3>
 
