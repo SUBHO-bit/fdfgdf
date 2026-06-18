@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipangshu Das</h1>
+<h1 align="center">𝙳𝚒𝚙𝚊𝚗𝚐𝚜𝚑𝚞 𝙳𝚊𝚜</h1>
 
 <h3 align="center">CSE Student | Aspiring Software Engineer | AI & DSA Enthusiast</h3>
 
