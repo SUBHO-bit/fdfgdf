@@ -1,7 +1,6 @@
-https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/lottie.json<h1 align="center">𝙳𝚒𝚙𝚊𝚗𝚐𝚜𝚑𝚞 𝙳𝚊𝚜</h1>
-
-<h3 align="center">CSE Student | Aspiring Software Engineer | AI & DSA Enthusiast</h3>
-
+<h1 align="center">
+  Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="35"> I'm Dipangshu Das
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Learning+DSA+and+System+Design;Building+Projects+with+AI;Future+Software+Engineer;Always+Learning+Something+New" />
 </p>
